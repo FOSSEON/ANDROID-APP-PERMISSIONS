@@ -1,8 +1,8 @@
-<div style="text-align: center; font-weight: bold; font-size: 30px;">INDEX</div> <a name="INDEX"></a>
+## INDEX <a name="INDEX"></a>
 
-<center>[A](#A) ‧ [B](#B) ‧ [C](#C) ‧ [D](#D) ‧ [E](#E) ‧ [F](#F) ‧ [G](#G) ‧ [H](#H) ‧ [I](#I) ‧ [J](#J) ‧ [K](#K) ‧ [L](#L) ‧ [M](#M) ‧ [N](#N) ‧ [O](#O) ‧ [P](#P) ‧ [Q](#Q) ‧ [R](#R) ‧ [S](#S) ‧ [T](#T) ‧ [U](#U) ‧ [V](#V) ‧ [W](#W) ‧ [X](#X) ‧ [Y](#Y) ‧ [Z](#Z)</center>
+[A](#A) ‧ [B](#B) ‧ [C](#C) ‧ [D](#D) ‧ [E](#E) ‧ [F](#F) ‧ [G](#G) ‧ [H](#H) ‧ [I](#I) ‧ [J](#J) ‧ [K](#K) ‧ [L](#L) ‧ [M](#M) ‧ [N](#N) ‧ [O](#O) ‧ [P](#P) ‧ [Q](#Q) ‧ [R](#R) ‧ [S](#S) ‧ [T](#T) ‧ [U](#U) ‧ [V](#V) ‧ [W](#W) ‧ [X](#X) ‧ [Y](#Y) ‧ [Z](#Z)
 
-<div style="text-align: center; font-weight: bold; font-size: 50px;">A</div> <a name="A"></a>
+# A <a name="A"></a>
 
 <mark>ACCEPT_HANDOVER</mark>
 
@@ -100,7 +100,7 @@ Allows the app to answer an incoming phone call.
 
 [↩️](#INDEX)
 
-<div style="text-align: center; font-weight: bold; font-size: 50px;">B</div> <a name="B"></a>
+# B <a name="B"></a>
 
 <mark>BATTERY_STATS</mark>
 
@@ -392,7 +392,7 @@ Allows an application to broadcast a WAP PUSH receipt notification.
 
 [↩️](#INDEX)
 
-<div style="text-align: center; font-weight: bold; font-size: 50px;">C</div> <a name="C"></a>
+# C <a name="C"></a>
 
 <mark>CALL\_COMPANION\_APP</mark>
 
@@ -490,7 +490,7 @@ Allows a browser to invoke credential manager APIs on behalf of another RP.
 
 [↩️](#INDEX)
 
-<div style="text-align: center; font-weight: bold; font-size: 50px;">D</div> <a name="D"></a>
+# D <a name="D"></a>
 
 <mark>DELETE\_CACHE\_FILES</mark>
 
@@ -540,7 +540,7 @@ Allows an application to retrieve state dump information from system services.
 
 [↩️](#INDEX)
 
-<div style="text-align: center; font-weight: bold; font-size: 50px;">E</div> <a name="E"></a>
+# E <a name="E"></a>
 
 <mark>ENFORCE\_UPDATE\_OWNERSHIP</mark>
 
@@ -560,7 +560,7 @@ Allows an application to expand or collapse the status bar.
 
 [↩️](#INDEX)
 
-<div style="text-align: center; font-weight: bold; font-size: 50px;">F</div> <a name="F"></a>
+# F <a name="F"></a>
 
 <mark>FACTORY_TEST</mark>
 
@@ -652,7 +652,7 @@ Allows a regular application to use Service.startForeground with the type "syste
 
 [↩️](#INDEX)
 
-<div style="text-align: center; font-weight: bold; font-size: 50px;">G</div> <a name="G"></a>
+# G <a name="G"></a>
 
 <mark>GET_ACCOUNTS</mark>
 
@@ -684,7 +684,7 @@ This permission can be used on content providers to allow the global search syst
 
 [↩️](#INDEX)
 
-<div style="text-align: center; font-weight: bold; font-size: 50px;">H</div> <a name="H"></a>
+# H <a name="H"></a>
 
 <mark>HIDE\_OVERLAY\_WINDOWS</mark>
 
@@ -698,7 +698,7 @@ Allows an app to access sensor data with a sampling rate greater than 200 Hz.
 
 [↩️](#INDEX)
 
-<div style="text-align: center; font-weight: bold; font-size: 50px;">I</div> <a name="I"></a>
+# I <a name="I"></a>
 
 <mark>INSTALL\_LOCATION\_PROVIDER</mark>
 
@@ -736,9 +736,9 @@ Allows applications to open network sockets.
 
 [↩️](#INDEX)
 
-<div style="text-align: center; font-weight: bold; font-size: 50px;">J</div> <a name="J"></a>
+# J <a name="J"></a>
 
-<div style="text-align: center; font-weight: bold; font-size: 50px;">K</div> <a name="K"></a>
+# K <a name="K"></a>
 
 <mark>KILL\_BACKGROUND\_PROCESSES</mark>
 
@@ -746,7 +746,7 @@ Allows an application to call ActivityManager.killBackgroundProcesses(String).
 
 [↩️](#INDEX)
 
-<div style="text-align: center; font-weight: bold; font-size: 50px;">L</div> <a name="L"></a>
+# L <a name="L"></a>
 
 <mark>LAUNCH\_CAPTURE\_CONTENT\_ACTIVITY\_FOR\_NOTE</mark>
 
@@ -772,7 +772,7 @@ Allows an application to use location features in hardware, such as the geofenci
 
 [↩️](#INDEX)
 
-<div style="text-align: center; font-weight: bold; font-size: 50px;">M</div> <a name="M"></a>
+# M <a name="M"></a>
 
 <mark>MANAGE\_DEVICE\_LOCK\_STATE</mark>
 
@@ -1362,7 +1362,7 @@ Allows mounting and unmounting file systems for removable storage.
 
 [↩️](#INDEX)
 
-<div style="text-align: center; font-weight: bold; font-size: 50px;">N</div> <a name="N"></a>
+# N <a name="N"></a>
 
 <mark>NEARBY\_WIFI\_DEVICES</mark>
 
@@ -1388,7 +1388,7 @@ Allows applications to receive NFC transaction events.
 
 [↩️](#INDEX)
 
-<div style="text-align: center; font-weight: bold; font-size: 50px;">O</div> <a name="O"></a>
+# O <a name="O"></a>
 
 <mark>OVERRIDE\_WIFI\_CONFIG</mark>
 
@@ -1396,7 +1396,7 @@ Allows an application to modify any wifi configuration, even if created by anoth
 
 [↩️](#INDEX)
 
-<div style="text-align: center; font-weight: bold; font-size: 50px;">P</div> <a name="P"></a>
+# P <a name="P"></a>
 
 <mark>PACKAGE\_USAGE\_STATS</mark>
 
@@ -1438,7 +1438,7 @@ Allows an application to be able to store and retrieve credentials from a remote
 
 [↩️](#INDEX)
 
-<div style="text-align: center; font-weight: bold; font-size: 50px;">Q</div> <a name="Q"></a>
+# Q <a name="Q"></a>
 
 <mark>QUERY\_ALL\_PACKAGES</mark>
 
@@ -1446,7 +1446,7 @@ Allows query of any normal app on the device, regardless of manifest declaration
 
 [↩️](#INDEX)
 
-<div style="text-align: center; font-weight: bold; font-size: 50px;">R</div> <a name="R"></a>
+# R <a name="R"></a>
 
 <mark>RANGING</mark>
 
@@ -1740,7 +1740,7 @@ Allows applications to use the user-initiated jobs API.
 
 [↩️](#INDEX)
 
-<div style="text-align: center; font-weight: bold; font-size: 50px;">S</div> <a name="S"></a>
+# S <a name="S"></a>
 
 <mark>SCHEDULE\_EXACT\_ALARM</mark>
 
@@ -1874,7 +1874,7 @@ Allows an app to create windows using the type WindowManager.LayoutParams.TYPE\_
 
 [↩️](#INDEX)
 
-<div style="text-align: center; font-weight: bold; font-size: 50px;">T</div> <a name="T"></a>
+# T <a name="T"></a>
 
 <mark>TRANSMIT_IR</mark>
 
@@ -1888,7 +1888,7 @@ Allows an app to turn on the screen on, e.g. with PowerManager.ACQUIRE\_CAUSES\_
 
 [↩️](#INDEX)
 
-<div style="text-align: center; font-weight: bold; font-size: 50px;">U</div> <a name="U"></a>
+# U <a name="U"></a>
 
 <mark>UNINSTALL_SHORTCUT</mark>
 
@@ -1950,7 +1950,7 @@ Required to be able to range to devices using ultra-wideband.
 
 [↩️](#INDEX)
 
-<div style="text-align: center; font-weight: bold; font-size: 50px;">V</div> <a name="V"></a>
+# V <a name="V"></a>
 
 <mark>VIBRATE</mark>
 
@@ -1958,7 +1958,7 @@ Allows access to the vibrator.
 
 [↩️](#INDEX)
 
-<div style="text-align: center; font-weight: bold; font-size: 50px;">W</div> <a name="W"></a>
+# W <a name="W"></a>
 
 <mark>WAKE_LOCK</mark>
 
@@ -2032,10 +2032,10 @@ Allows an application to modify and remove existing voicemails in the system.
 
 [↩️](#INDEX)
 
-<div style="text-align: center; font-weight: bold; font-size: 50px;">X</div> <a name="X"></a>
+# X <a name="X"></a>
 
-<div style="text-align: center; font-weight: bold; font-size: 50px;">Y</div> <a name="Y"></a>
+# Y <a name="Y"></a>
 	
-<div style="text-align: center; font-weight: bold; font-size: 50px;">Z</div> <a name="Z"></a>
+# Z <a name="Z"></a>
 
-<center>All data is sourced from Android's official documentation, found [here](https://developer.android.com/reference/android/Manifest.permission).</center>
+All data is sourced from Android's official documentation, found [here](https://developer.android.com/reference/android/Manifest.permission).
