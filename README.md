@@ -1982,7 +1982,7 @@ Allows an application to write the user's calendar data.
 
 [↩️](#INDEX)
 
-<mark>WRITE_CALL_LOG</mark>
+<mark>WRITE\_CALL\_LOG</mark>
 
 Allows an application to write and read the user's call log data.
 
