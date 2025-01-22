@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://github.com/FOSSEON/ANDROID-APP-PERMISSIONS/blob/main/ANDROID-APP-PERMISSIONS-ICON.png" />
+  <img src="https://github.com/FOSSEON/ANDROID-APP-PERMISSIONS/blob/main/ANDROID-APP-PERMISSIONS-ICON.png" width="225" height="150" />
 </p>
-
+<div align="center">
+	
 # INDEX <a name="INDEX"></a>
 
-[A](#A) ‧ [B](#B) ‧ [C](#C) ‧ [D](#D) ‧ [E](#E) ‧ [F](#F) ‧ [G](#G) ‧ [H](#H) ‧ [I](#I) ‧ [J](#J) ‧ [K](#K) ‧ [L](#L) ‧ [M](#M) ‧ [N](#N) ‧ [O](#O) ‧ [P](#P) ‧ [Q](#Q) ‧ [R](#R) ‧ [S](#S) ‧ [T](#T) ‧ [U](#U) ‧ [V](#V) ‧ [W](#W) ‧ [X](#X) ‧ [Y](#Y) ‧ [Z](#Z)
+[A](#A) ‧ [B](#B) ‧ [C](#C) ‧ [D](#D) ‧ [E](#E) ‧ [F](#F) ‧ [G](#G) ‧ [H](#H) ‧ [I](#I) ‧ [J](#J) ‧ [K](#K) ‧ [L](#L) ‧ [M](#M) ‧ [N](#N) ‧ [O](#O) ‧ [P](#P) ‧ [Q](#Q) ‧ [R](#R) ‧ [S](#S) ‧ [T](#T) ‧ [U](#U) ‧ [V](#V) ‧ [W](#W) ‧ [X](#X) ‧ [Y](#Y) ‧ [Z](#Z) 
 
 # A <a name="A"></a>
 
@@ -2043,3 +2044,4 @@ Allows an application to modify and remove existing voicemails in the system.
 # Z <a name="Z"></a>
 
 All data is sourced from Android's official documentation, found [here](https://developer.android.com/reference/android/Manifest.permission).
+</div>
