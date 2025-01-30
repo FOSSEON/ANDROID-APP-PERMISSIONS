@@ -2043,5 +2043,4 @@ Allows an application to modify and remove existing voicemails in the system.
 	
 # Z <a name="Z"></a>
 
-All data is sourced from Android's official documentation, found [here](https://developer.android.com/reference/android/Manifest.permission).
-</div>
+All data is sourced from Android's official documentation, found [here](https://developer.android.com/reference/android/Manifest.permission).</div>
