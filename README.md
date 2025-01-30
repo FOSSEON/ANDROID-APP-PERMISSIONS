@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/FOSSEON/ANDROID-APP-PERMISSIONS/blob/main/ANDROID-APP-PERMISSIONS-ICON.png" width="225" height="150" />
+  <img src="https://github.com/FOSSEON/ANDROID-APP-PERMISSIONS/blob/main/ANDROID-APP-PERMISSIONS-ICON.png" width="225" height="150"/>
 </p>
 <div align="center">
 	
