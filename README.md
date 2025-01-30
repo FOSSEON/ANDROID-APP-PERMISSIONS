@@ -153,7 +153,7 @@ A subclass of CarrierMessagingClientService must be protected with this permissi
 
 <mark>BIND\_CARRIER\_MESSAGING\_SERVICE</mark>
 
-This constant was deprecated in API level 23. Use BIND_CARRIER_SERVICES instead.
+This constant was deprecated in API level 23. Use BIND\_CARRIER\_SERVICES instead.
 
 [↩️](#INDEX)
 
